@@ -1,3 +1,5 @@
 # tcpdf
 tcpdf fonts for persian and arabic language
-tested
+
+add name : 
+pdf->SetFont(' fontname ', '', 14, '', true);
