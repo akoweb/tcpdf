@@ -1,2 +1,3 @@
 # tcpdf
-tcpdf fpnt for persian and arabic
+tcpdf fonts for persian and arabic language
+tested
